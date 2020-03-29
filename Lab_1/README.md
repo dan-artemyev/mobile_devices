@@ -1,6 +1,4 @@
-# mobile_devices
-Mobile devices labs
-Lab_1
+# Lab_1
 
 Для запуска программы запустить файл main.py в интерпретаторе Python.
 
