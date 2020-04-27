@@ -27,4 +27,5 @@
 
 ### Контакты студента для связи:
 Mail: `dan.artemyev@gmail.com`
+
 Telegram: `@dan_artemyev`
